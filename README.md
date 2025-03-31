@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/87e53493-de62-43c5-ac75-995843fcbafe)
 
 <!--
 **sillage0721/sillage0721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
